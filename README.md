@@ -4,7 +4,7 @@
 
 [시작할 때 도움되는 페이지](https://www.lucypark.kr/courses/2015-dm/text-mining.html)
 
-## 요구되되는
+## 요구되는
 
 [Tensorflow](https://www.tensorflow.org/) An open-source software library for Machine Intelligence  
 ```pip install tensorflow-gpu```   
